@@ -1,4 +1,5 @@
-// Introducing the Concept of Hot Reload!
+// Introducing the Concept of Hot Reload and packages! 
+// Add dependencies of the packages like Statusbar and Toast in pubspec.yaml file, refer pub.dev site 
 
 
 import 'package:flutter/material.dart';
